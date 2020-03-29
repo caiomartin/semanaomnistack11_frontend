@@ -2,7 +2,7 @@
 
 O projeto consiste em conectar pessoas em ajudar ONGs
 
-![](https://github.com//caiomartin/semanaomnistack11_frontend/blob/master/src/assets/logon.png?raw=true
+![](https://github.com//caiomartin/semanaomnistack11_frontend/blob/master/src/assets/logon.png?raw=true)
 
 # Tecnologia utilizadas
 
