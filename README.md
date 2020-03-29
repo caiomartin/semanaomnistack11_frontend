@@ -16,4 +16,4 @@ O projeto consiste em conectar pessoas em ajudar ONGs
 
 # Foi desenvolvido também
 - [Backend](https://github.com/caiomartin/semanaomnistack11_backend)
-- Mobile
+- [Mobile] (https://github.com/caiomartin/semanaomnistack11_mobile)
